@@ -1,1 +1,13 @@
+{
+    "description": "personal website",
+    "repo": "https://github.com/rohansingh20/rohansingh.github.io",
+    "owner": {
+        "username": "rohansingh20",
+        "email": "rohansinghiscool@gmail.com",
+        "twitter": "<twitter-username>"
+    },
+    "record": {
+        "CNAME": "rohansingh.github.io"
+    }
+} 
 
